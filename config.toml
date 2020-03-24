@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
     since = 2012
     author = "隋鑫"
     avatar = "/images/me/avatar.png"
-    subtitle = "只说偏激的观点，留给你思考的空间"
+    subtitle = "欢迎来到隋鑫的个人网站！"
     cdn_url = ""           # Base CDN URL
     home_mode = "my" # post or other
 
