@@ -58,9 +58,9 @@ defaultContentLanguageInSubdir = false
     weight = 100
 
 [params]
-    since = 2012
+    since = 2018
     author = "隋鑫"
-    avatar = "/images/me/avatar.png"
+    avatar = "/images/me/Running-Man.png"
     subtitle = "欢迎来到隋鑫的个人网站！"
     cdn_url = ""           # Base CDN URL
     home_mode = "my" # post or other
