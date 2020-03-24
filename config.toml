@@ -28,10 +28,7 @@ defaultContentLanguageInSubdir = false
  posts = "/:filename/"
 
 [menu]
-  [[menu.main]]
-    name = "搜索"
-    url = "/search/"
-    weight = 1
+
   [[menu.main]]
     name = "首页"
     url = "/"
@@ -40,14 +37,6 @@ defaultContentLanguageInSubdir = false
     name = "文章"
     url = "/posts/"
     weight = 2
-  [[menu.main]]
-    name = "联系我"
-    url = "/contacts/"
-    weight = 10
-  [[menu.main]]
-    name = "订阅"
-    url = "/wechat-subscribe/"
-    weight = 20
   [[menu.main]]
     name = "掘金"
     url = "https://juejin.im/user/5c21e27ee51d452f2c2ef72c"
@@ -63,7 +52,7 @@ defaultContentLanguageInSubdir = false
     avatar = "/images/me/Running-Man.png"
     subtitle = "欢迎来到隋鑫的个人网站！"
     cdn_url = ""           # Base CDN URL
-    home_mode = "my" # post or other
+    home_mode = "my" # posts or other
 
     google_verification = ""
 
